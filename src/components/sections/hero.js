@@ -48,12 +48,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Elora Schoerverth.</h2>;
+  const three = <h3 className="big-heading">CS Graduate Student & Software Engineer</h3>;
   const four = (
     <p>
-      I'm a software engineer based in Boston, MA specializing in building (and occasionally
-      designing) exceptional websites, applications, and everything in between.
+      I'm a CS Graduate student based in Berlin specializing in Machine Learning and Distributed
+      Systems. I also work at Fraunhofer HHI.
     </p>
   );
   const five = (

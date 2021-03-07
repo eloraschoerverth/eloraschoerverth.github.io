@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Django', 'Cloud Computing', 'Machine Learning', 'React', 'Docker'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +141,20 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Elora, a Computer Science Graduate Student in Berlin, Germany.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              The focus during my studies lies on Machine Learning and Distributed Systems. I am
+              especially interested in applying ML in medicine and remote sensing. For my bachelor's
+              thesis I developed a web application supervising the progression of Parkinson's in
+              patients.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              Alongside my studies I work at the Fraunhofer HHI Institute, where I am part of{' '}
+              <a href="https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx">AI4H</a> -
+              a focus group building a machine learning assessment platform. The focus group is a
+              cooperation between ITU and WHO, alongside multiple international partners.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
