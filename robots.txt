@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://eloraschoerverth.github.io/sitemap.xml
+Host: https://eloraschoerverth.github.io
