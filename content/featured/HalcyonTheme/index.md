@@ -1,16 +1,12 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Member of AiAudit'
+cover: './aiaudit.jpeg'
+github: 'https://github.com/aiaudit-org/health-aiaudit-public'
+external: 'aiaudit.com'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python, Django
+  - AWS
 showInProjects: true
 ---
-
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+aiaudit.org is a cooperative of humans working at the intersection of machine learning research, regulation, software development and application domains. We design methods, processes and standardization contributing towards AI technology that can be trusted for use in real-world applications. For that purpose, many of us contribute their expertise to standardization efforts such as the ITU/WHO Focus Group on Artificial Intelligence for Health or Xavier AI Team of the FDA’s Digital Health Center of Excellence.
