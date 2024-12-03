@@ -1,200 +1,124 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Elora Schoerverth",
+    "label": "Applied AI Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Specializing in machine learning and document processing. Also passionate about medical ML and space.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Berlin",
+      "postalCode": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": "Berlin"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "eloraschoerverth",
+        "url": "https://www.linkedin.com/in/eloraschoerverth/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Workist",
+      "position": "Applied AI Engineer",
+      "url": "",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "highlights": [
+        "Collaborated on transitioning to a new token classification model, improving F1 score from 0.86 to 0.938 through fine-tuning and evaluation.",
+        "Experimented with models for object detection and document/email classification to optimize AI capabilities.",
+        "Enhanced machine learning monitoring pipelines to ensure reliability and performance.",
+        "Contributed to backend development, including bug fixes, improved post-processing, and customer-specific adjustments."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Fraunhofer HHI",
+      "position": "Student Research Assistant",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2023-03-01",
+      "summary": "Worked on the SyReal project focusing on generative models for synthetic histopathological imaging.",
+      "highlights": [
+        "Trained and evaluated diffusion models; developed interpretability methods for generative processes.",
+        "Contributed to XAI interface development for diffusion models in healthcare applications.",
+        "Leveraged tools like PyTorch, AWS SageMaker, and Python for experimentation and deployment."
+      ]
+    },
+    {
+      "name": "Fraunhofer HHI",
+      "position": "Student Software Engineer",
+      "url": "",
+      "startDate": "2020-10-01",
+      "endDate": "2021-12-31",
+      "summary": "Developed an assessment platform for evaluating machine learning models in healthcare.",
+      "highlights": [
+        "Led the development of an ML model assessment platform integrated with ITU/WHO AI4H guidelines.",
+        "Improved evaluation efficiency and platform reliability.",
+        "Utilized technologies including Python, Docker, AWS, Django, and AngularJS."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Technical University Berlin",
+      "location": "Berlin, Germany",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Master's",
+      "startDate": "2020-10-01",
+      "endDate": "2023-03-01",
+      "score": "1.2",
+      "courses": ["Machine Intelligence", "Cloud Computing", "Advanced Algorithmics", "Medical Image Processing"],
+      "summary": "Master's thesis: 'An XAI Interface for Diffusion Models.'"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "Technical University Berlin",
+      "location": "Berlin, Germany",
+      "url": "",
+      "area": "Computer Science & Media",
+      "studyType": "Bachelor's",
+      "startDate": "2017-10-01",
+      "endDate": "2020-09-01",
+      "score": "",
+      "courses": ["Algorithms & Data Structures", "Calculus and Linear Algebra", "Complexity Theory", "Computer Vision", "Software Engineering"],
+      "summary": "Bachelor's thesis: 'Development of a Web Application for Supervising the Progression of Parkinson's Disease in Patients.'"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Programming Languages",
+      "keywords": ["Python", "JavaScript", "Bash"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Data Science & Machine Learning",
+      "keywords": ["PyTorch", "Transformers", "NumPy", "Pandas", "Scikit-learn"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Model Deployment & DevOps",
+      "keywords": ["Azure", "AWS", "Docker", "Kubernetes", "Git", "CI/CD"]
+    },
+    {
+      "name": "Web Development",
+      "keywords": ["Django", "React", "Angular"]
     }
   ],
-  "projects": [
+  "publications": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Machine Learning for Health (ML4H) 2022",
+      "publisher": "PMLR",
+      "releaseDate": "2022-12-01",
+      "url": "https://proceedings.mlr.press/v193/parziale22a.html",
+      "summary": "Contributed to proceedings on algorithm auditing and quality control in healthcare."
+    },
+    {
+      "name": "Machine Learning for Health: Algorithm Auditing & Quality Control",
+      "publisher": "Journal of Medical Systems",
+      "releaseDate": "2021-11-01",
+      "url": "https://doi.org/10.1007/s10916-021-01783-y",
+      "summary": "Focused on quality control methodologies for ML systems in health."
     }
   ]
 }
+

@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Berlin, Germany</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hey, I'm an **Applied AI Engineer** at [Workist](https://workist.com), a Berlin-based startup focused on **document understanding**. I develop AI systems that automate document processing and enhance business workflows using machine learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my Master’s in Computer Science at **TU Berlin**, where I specialized in machine learning and **explainable AI (XAI)**. My thesis, conducted at [Fraunhofer HHI](https://www.hhi.fraunhofer.de), focused on applying XAI to **diffusion models** within a larger project aimed at improving lung cancer tissue imaging. The goal was to enhance the interpretability and transparency of AI models in healthcare applications.
+
+Before my thesis, I worked on a project supporting the [ITU/WHO Focus Group on AI for Health](https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx), where I helped develop an AI platform for evaluating machine learning in healthcare.
+
+For my bachelor's thesis, I developed a web app to track the progression of Parkinson’s disease, marking the start of my interest in healthcare technologies and AI.
